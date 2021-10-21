@@ -1,5 +1,8 @@
+<!-- Translate to Portuguese -->
+<!-- Se você leu isso, você é muito legal! -->
+
 # What's up, `<Developer />`👋?
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrinfx.pedrinfx) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pedrinfx.pedrinfx)
 
 ## Welcome to my profile!
 
