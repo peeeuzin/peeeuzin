@@ -12,8 +12,8 @@
 <br>
 
 ## About Me 👍
- - 🔭 I’m currently working on Notes
- - 🌱 I’m currently learning C++
+ - 🔭 I’m currently working on Photon
+ - 🌱 I’m currently learning Elixir
  - 👯 I’m looking to collaborate on
  - 💬 Talk to me about Node.js 
 
