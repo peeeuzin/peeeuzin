@@ -12,20 +12,14 @@
 const me = {
     name: 'Pedro Augusto',
     age: 15,
-    skills: ['Typescript/Javascript', 'CSS', 'HTML', 'Elixir', 'C#', 'Node.js', 'Jest', 'Next.js', 'React']
+    skills: ['Typescript/Javascript', 'CSS', 'HTML', 'Elixir', 'C#', 'Node.js', 'Jest', 'Next.js', 'React'],
+    
+    getCurrentLearning: () => {
+        return 'C++/C';
+    }
 }
 
-function getCurrentLearning() {
-    return 'C++/C'
-}
-
-console.log(`${me.name} is current learning: ${getCurrentLearning()}!`)
-
-console.log(`${me.name} is now in love with Node.js 💖`)
-```
-
-```
-$ ts-node index.ts
+export default me;
 ```
 
 # My Stats 💻
