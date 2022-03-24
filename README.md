@@ -15,7 +15,7 @@ const me = {
     skills: ['Typescript/Javascript', 'CSS', 'HTML', 'Elixir', 'C#', 'Node.js', 'Jest', 'Next.js', 'React'],
     
     getCurrentLearning: () => {
-        return 'C++/C';
+        return 'Rust';
     }
 }
 
