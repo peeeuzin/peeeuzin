@@ -2,7 +2,7 @@
 <!-- hentai -->
 
 # What's up, `<Developer />`👋?
-### My name is Pedro Augusto, I'm full-stack developer with 15 years old, in love with Node.js
+### My name is Pedro Augusto, I'm full-stack developer with 16 years old, in love with Node.js
 
 
 <br>
