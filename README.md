@@ -11,7 +11,7 @@
 ```typescript
 const me = {
     name: 'Pedro Augusto',
-    age: 15,
+    age: 16,
     skills: ['Typescript/Javascript', 'CSS', 'HTML', 'Elixir', 'C#', 'Node.js', 'Jest', 'Next.js', 'React'],
     
     getCurrentLearning: () => {
