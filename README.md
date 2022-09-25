@@ -12,10 +12,10 @@
 const me = {
     name: 'Pedro Augusto',
     age: 16,
-    skills: ['Typescript/Javascript', 'CSS', 'HTML', 'Elixir', 'C#', 'Node.js', 'Jest', 'Next.js', 'React'],
+    skills: ['Typescript/Javascript', 'CSS', 'HTML', 'Sass', 'Elixir', 'C#', 'Node.js', 'React', 'Rust'],
     
     getCurrentLearning: () => {
-        return 'Rust';
+        return 'Zig';
     }
 }
 
