@@ -32,5 +32,5 @@ const me = {
 
 export default me;
 
-~ $
+~ $ npm publish
 ```
