@@ -24,11 +24,11 @@ export default me;
 
 # My Stats 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrinfx&show_icons=true&bg_color=121214&title_color=9264f5&text_color=dedede)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeeuzin&show_icons=true&bg_color=121214&title_color=9264f5&text_color=dedede)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinfx&bg_color=121214&title_color=9264f5&text_color=dedede)](https://github.com/pedrinfx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peeeuzin&bg_color=121214&title_color=9264f5&text_color=dedede)](https://github.com/pedrinfx)
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pedrinfx&bg_color=121214&title_color=9264f5&text_color=dedede)](https://github.com/pedrinfx)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=peeeuzin&bg_color=121214&title_color=9264f5&text_color=dedede)](https://github.com/pedrinfx)
 
 Made with a lot of love 💖
 <!-- Kinda sus -->
