@@ -24,11 +24,7 @@ export default me;
 
 # My Stats 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeeuzin&show_icons=true&bg_color=121214&title_color=9264f5&text_color=dedede)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peeeuzin&bg_color=121214&title_color=9264f5&text_color=dedede)](https://github.com/peeeuzin)
-
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pedrinfx&bg_color=121214&title_color=9264f5&text_color=dedede)](https://github.com/peeeuzin)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peeeuzin&show_icons=true&bg_color=121214&title_color=5ceb46&text_color=dedede&border_color=121214&icon_color=5ceb46)
 
 Made with a lot of love 💖
 <!-- Kinda sus -->
