@@ -23,7 +23,14 @@
 const me = {
     name: 'Pedro Augusto',
     age: 16,
-    skills: ['Typescript/Javascript', 'CSS', 'HTML', 'Sass', 'Elixir', 'C#', 'Node.js', 'React', 'Rust'],
+    location: ['Brasilia', 'Brazil'],
+    languages: ['Portuguese', 'English'],
+    skills: {
+        languages: ['Typescript/Javascript', 'CSS', 'HTML', 'Elixir', 'C#', 'Rust', 'C++', 'C'],
+        frameworks: ['React', 'Next.js', 'NestJS', 'Express'],
+        databases: ['PostgreSQL', 'MongoDB', 'Redis', 'SQLite'],
+        tools: ['Git', 'Docker', 'VSCode', 'Linux', 'Windows'],
+    },
     
     getCurrentLearning: () => {
         return 'Zig';
