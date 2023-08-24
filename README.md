@@ -26,8 +26,8 @@ const me = {
     location: ['Brasilia', 'Brazil'],
     languages: ['Portuguese', 'English'],
     skills: {
-        languages: ['Typescript/Javascript', 'CSS', 'HTML', 'Elixir', 'C#', 'Rust', 'C++', 'C'],
-        frameworks: ['React', 'Next.js', 'NestJS', 'Express'],
+        languages: ['Typescript/Javascript', 'CSS', 'HTML', 'Elixir', 'C#', 'Python', 'Rust', 'C++', 'C'],
+        frameworks: ['React', 'Next.js', 'NestJS', 'Express', 'Django'],
         databases: ['PostgreSQL', 'MongoDB', 'Redis', 'SQLite'],
         tools: ['Git', 'Docker', 'VSCode', 'Linux', 'Windows'],
     },
