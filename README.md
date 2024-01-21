@@ -33,7 +33,7 @@ const me = {
     },
     
     getCurrentLearning: () => {
-        return 'Zig';
+        return 'Tensorflow';
     }
 }
 
