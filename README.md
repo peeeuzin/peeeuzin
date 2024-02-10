@@ -26,10 +26,10 @@ const me = {
     location: ['Brasilia', 'Brazil'],
     languages: ['Portuguese', 'English'],
     skills: {
-        languages: ['Typescript/Javascript', 'CSS', 'HTML', 'Elixir', 'C#', 'Python', 'Rust', 'C++', 'C'],
-        frameworks: ['React', 'Next.js', 'NestJS', 'Express', 'Django'],
+        languages: ['Typescript/Javascript', 'Rust', 'CSS', 'HTML', 'Elixir', 'C#', 'Java', 'Python', 'C++', 'C'],
+        frameworks: ['React', 'React Native', 'Next.js', 'NestJS', 'Express', 'Django'],
         databases: ['PostgreSQL', 'MongoDB', 'Redis', 'SQLite'],
-        tools: ['Git', 'Docker', 'VSCode', 'Linux', 'Windows'],
+        tools: ['Git', 'Docker', 'VSCode', 'Linux', 'Windows', 'MacOS'],
     },
     
     getCurrentLearning: () => {
