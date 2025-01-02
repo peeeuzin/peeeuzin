@@ -41,5 +41,3 @@ export default me;
 
 ~ $ npm publish
 ```
-
-<figure><embed src="https://wakatime.com/share/@pedrinfx/648de0ea-e36a-4bab-9454-f98f14be4b98.svg"></embed></figure>
