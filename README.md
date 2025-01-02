@@ -41,3 +41,6 @@ export default me;
 
 ~ $ npm publish
 ```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
