@@ -22,7 +22,7 @@
 ~ $ cat peeeuzin.ts
 const me = {
     name: 'Pedro Augusto',
-    age: 18,
+    age: 19,
     location: ['Brasilia', 'Brazil'],
     languages: ['Portuguese', 'English'],
     skills: {
