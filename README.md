@@ -26,19 +26,15 @@ const me = {
     location: ['Brasilia', 'Brazil'],
     languages: ['Portuguese', 'English'],
     skills: {
-        languages: ['Typescript/Javascript', 'Rust', 'CSS', 'HTML', 'Elixir', 'C#', 'Java', 'Python', 'C++', 'C'],
-        frameworks: ['React', 'React Native', 'Next.js', 'NestJS', 'Express', 'Django'],
+        languages: ['Typescript', 'Rust', 'Zig', 'Elixir', 'C#', 'Scala', 'Java', 'Python', 'C++', 'C'],
+        frameworks: ['React', 'React Native', 'Next.js', 'Nest.js', 'Spring', 'Django'],
         databases: ['PostgreSQL', 'MongoDB', 'Redis', 'SQLite'],
         tools: ['Git', 'Docker', 'VSCode', 'Linux', 'Windows', 'MacOS'],
     },
-    
-    getCurrentLearning: () => {
-        return 'Tensorflow';
-    }
 }
 
 export default me;
-
+~ # npm run build
 ~ $ npm publish
 ```
 
