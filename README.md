@@ -39,7 +39,7 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C877%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C878%20hrs%2059%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -66,22 +66,23 @@ Sunday                   660 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 47 mins      ████████████████████████░   96.50 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Prisma                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               12 hrs 50 mins      ████████████████████████░   94.34 % 
+Prisma                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Java                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-espia-negocios           11 hrs 12 mins      ███████████████████████░░   91.78 % 
-sig                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-ui                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+espia-negocios           12 hrs 16 mins      ███████████████████████░░   90.21 % 
+sig                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+demo                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+ui                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    12 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,5 +98,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:45:35 UTC
+ Last Updated on 26/07/2026 19:44:59 UTC
 <!--END_SECTION:waka-->
