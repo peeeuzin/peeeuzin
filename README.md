@@ -68,46 +68,45 @@ Sunday                   660 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 41 mins       ██████████████████████░░░   87.09 % 
-JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Prisma                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Java                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+TypeScript               5 hrs 34 mins       █████████████████████░░░░   84.00 % 
+JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Java                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Prisma                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-espia-negocios           7 hrs 28 mins       █████████████████████░░░░   84.61 % 
-pasacademy               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-sig                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-demo                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-ui                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+espia-negocios           5 hrs 24 mins       ████████████████████░░░░░   81.44 % 
+pasacademy               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+sig                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+demo                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 Operating System: 
-Linux                    8 hrs 49 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (9.38%)
+⏱ AI Coding Time: 23 mins (5.9%)
 
-✍️ 315 lines written by AI, 1,338 lines written by hand (19.06% AI-written)
+✍️ 315 lines written by AI, 1,020 lines written by hand (23.6% AI-written)
 
 🔤 3,174,270 Input Tokens, 30,277 Output Tokens
 
 💵 $16.78 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 GPT                      316 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.06% of written lines came from AI
-📝 Concise Prompter — average 154 characters per prompt
+🧑‍💻 Mostly Hands-On — 23.6% of written lines came from AI
+📝 Concise Prompter — average 170 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.93% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,5 +122,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 19:54:42 UTC
+ Last Updated on 30/07/2026 20:04:36 UTC
 <!--END_SECTION:waka-->
