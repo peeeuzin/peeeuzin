@@ -39,7 +39,7 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C769%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C770%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2010%20mins-blue?style=flat)
 
@@ -68,24 +68,23 @@ Sunday                   660 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 55 mins       ████████████████████░░░░░   79.93 % 
-JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Java                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Prisma                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+TypeScript               3 hrs 30 mins       █████████████████████░░░░   84.02 % 
+JSON                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-espia-negocios           3 hrs 36 mins       ██████████████████░░░░░░░   73.29 % 
-pasacademy               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-sig                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-demo                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-ui                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+espia-negocios           2 hrs 40 mins       ████████████████░░░░░░░░░   64.16 % 
+sig                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+pasacademy               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+ui                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Linux                    4 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,5 +106,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:44:48 UTC
+ Last Updated on 02/08/2026 19:45:34 UTC
 <!--END_SECTION:waka-->
