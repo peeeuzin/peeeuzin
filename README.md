@@ -39,28 +39,28 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C773%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C775%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2010%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                259 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-🌆 Daytime                1486 commits        █████████░░░░░░░░░░░░░░░░   36.59 % 
-🌃 Evening                2183 commits        █████████████░░░░░░░░░░░░   53.76 % 
-🌙 Night                  133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+🌞 Morning                261 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+🌆 Daytime                1498 commits        █████████░░░░░░░░░░░░░░░░   36.52 % 
+🌃 Evening                2208 commits        █████████████░░░░░░░░░░░░   53.83 % 
+🌙 Night                  135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Tuesday                  551 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Wednesday                631 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Thursday                 463 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Friday                   596 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Saturday                 664 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Sunday                   660 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Monday                   499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Tuesday                  555 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Wednesday                650 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Thursday                 467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Friday                   601 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Saturday                 668 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Sunday                   662 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
 ```
 
 
@@ -68,22 +68,22 @@ Sunday                   660 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 39 mins       ████████████████████████░   95.94 % 
-Prisma                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               6 hrs 22 mins       █████████████████████░░░░   83.38 % 
+JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Prisma                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-espia-negocios           3 hrs 27 mins       ███████████████░░░░░░░░░░   58.69 % 
-sig                      2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.93 % 
-ui                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+espia-negocios           5 hrs 12 mins       █████████████████░░░░░░░░   68.09 % 
+sig                      2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
+ui                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Linux                    5 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,5 +105,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:09:40 UTC
+ Last Updated on 07/08/2026 00:25:59 UTC
 <!--END_SECTION:waka-->
