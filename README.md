@@ -39,7 +39,7 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C782%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C783%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-21%20hrs%2017%20mins-blue?style=flat)
 
@@ -68,32 +68,32 @@ Sunday                   730 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 34 mins       ███████████████░░░░░░░░░░   58.40 % 
-Python                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-JSON                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Elixir                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TypeScript               4 hrs 53 mins       ██████████████░░░░░░░░░░░   57.15 % 
+Python                   1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Elixir                   54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-espia-negocios           7 hrs 45 mins       ████████████████████░░░░░   81.17 % 
-hydrogen                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-spyder                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-infra                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-ui                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+espia-negocios           6 hrs 2 mins        ██████████████████░░░░░░░   70.62 % 
+hydrogen                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+spyder                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+infra                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+docs                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Linux                    9 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (1.26%)
+⏱ AI Coding Time: 7 mins (1.4%)
 
-✍️ 54 lines written by AI, 950 lines written by hand (5.38% AI-written)
+✍️ 54 lines written by AI, 917 lines written by hand (5.56% AI-written)
 
 🔤 90,332 Input Tokens, 10,503 Output Tokens
 
@@ -104,10 +104,10 @@ Linux                    9 hrs 33 mins       ███████████�
 GPT                      54 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.38% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 5.56% of written lines came from AI
 📚 Verbose Prompter — average 1,980 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.03% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,5 +123,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:38:51 UTC
+ Last Updated on 13/08/2026 19:37:17 UTC
 <!--END_SECTION:waka-->
