@@ -39,9 +39,9 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C790%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C792%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2013%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -68,47 +68,47 @@ Sunday                   794 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   37.08 % 
-Rust                     2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-Elixir                   1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Lua                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+TypeScript               3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+Rust                     3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+Elixir                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Lua                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 15 mins      █████████████████████████   99.17 % 
-Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+VS Code                  11 hrs 29 mins      █████████████████████████   98.73 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🐱‍💻 Projects: 
-espia-negocios           5 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.34 % 
-neogamakay               3 hrs               ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-spyder                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-hydrogen                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-gamakay                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+neogamakay               4 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.73 % 
+espia-negocios           3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.19 % 
+spyder                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+hydrogen                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+gamakay                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 💻 Operating System: 
-Linux                    11 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (10.9%)
+⏱ AI Coding Time: 1 hr 55 mins (16.58%)
 
-✍️ 115 lines written by AI, 1,214 lines written by hand (8.65% AI-written)
+✍️ 180 lines written by AI, 1,226 lines written by hand (12.8% AI-written)
 
-🔤 727,916 Input Tokens, 57,614 Output Tokens
+🔤 847,022 Input Tokens, 95,887 Output Tokens
 
-💵 $4.81 Estimated AI Cost This Week
+💵 $6.59 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 5 AI Prompts
+🧠 5 AI Sessions, 8 AI Prompts
 
-GPT                      115 lines           █████████████████████████   100.00 % 
+GPT                      180 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.65% of written lines came from AI
-📝 Concise Prompter — average 248 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 95.06% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 12.8% of written lines came from AI
+📝 Concise Prompter — average 203 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 92.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,5 +124,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:58:23 UTC
+ Last Updated on 17/08/2026 19:10:05 UTC
 <!--END_SECTION:waka-->
