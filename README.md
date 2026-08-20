@@ -39,7 +39,7 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C792%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C792%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2013%20mins-blue?style=flat)
 
@@ -68,33 +68,33 @@ Sunday                   794 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.68 % 
-TypeScript               1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Elixir                   1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Lua                      1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Rust                     3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.67 % 
+TypeScript               1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Lua                      1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Elixir                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Python                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 52 mins       █████████████████████████   98.53 % 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+VS Code                  9 hrs 15 mins       █████████████████████████   98.43 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🐱‍💻 Projects: 
-neogamakay               4 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.32 % 
-espia-negocios           2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-spyder                   1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-hydrogen                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-gamakay                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+neogamakay               4 hrs 44 mins       █████████████░░░░░░░░░░░░   50.39 % 
+espia-negocios           2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+spyder                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+hydrogen                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+gamakay                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 💻 Operating System: 
-Linux                    10 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (19.26%)
+⏱ AI Coding Time: 1 hr 55 mins (20.51%)
 
-✍️ 180 lines written by AI, 829 lines written by hand (17.84% AI-written)
+✍️ 180 lines written by AI, 794 lines written by hand (18.48% AI-written)
 
 🔤 847,022 Input Tokens, 95,887 Output Tokens
 
@@ -105,10 +105,10 @@ Linux                    10 hrs 1 min        ███████████�
 GPT                      180 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 17.84% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 18.48% of written lines came from AI
 📝 Concise Prompter — average 203 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 90.43% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,5 +124,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:06:35 UTC
+ Last Updated on 20/08/2026 19:13:44 UTC
 <!--END_SECTION:waka-->
