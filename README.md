@@ -68,47 +68,47 @@ Sunday                   794 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.67 % 
-TypeScript               1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Lua                      1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Elixir                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Python                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Rust                     3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.59 % 
+TypeScript               1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Lua                      1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Python                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 15 mins       █████████████████████████   98.43 % 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+VS Code                  7 hrs 54 mins       █████████████████████████   98.67 % 
+Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-neogamakay               4 hrs 44 mins       █████████████░░░░░░░░░░░░   50.39 % 
-espia-negocios           2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-spyder                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-hydrogen                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-gamakay                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+neogamakay               4 hrs 44 mins       ███████████████░░░░░░░░░░   59.24 % 
+espia-negocios           1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+hydrogen                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+gamakay                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+spyder                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 💻 Operating System: 
-Linux                    9 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (20.51%)
+⏱ AI Coding Time: 1 hr 25 mins (17.9%)
 
-✍️ 180 lines written by AI, 794 lines written by hand (18.48% AI-written)
+✍️ 136 lines written by AI, 754 lines written by hand (15.28% AI-written)
 
-🔤 847,022 Input Tokens, 95,887 Output Tokens
+🔤 717,711 Input Tokens, 84,187 Output Tokens
 
-💵 $6.59 Estimated AI Cost This Week
+💵 $5.71 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 8 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
-GPT                      180 lines           █████████████████████████   100.00 % 
+GPT                      136 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.48% of written lines came from AI
-📝 Concise Prompter — average 203 characters per prompt
+🧑‍💻 Mostly Hands-On — 15.28% of written lines came from AI
+📝 Concise Prompter — average 174 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 90.14% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 92.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,5 +124,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:13:44 UTC
+ Last Updated on 21/08/2026 19:09:27 UTC
 <!--END_SECTION:waka-->
