@@ -47,20 +47,20 @@ export default me;
 
 ```text
 🌞 Morning                312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-🌆 Daytime                1837 commits        █████████░░░░░░░░░░░░░░░░   36.39 % 
-🌃 Evening                2731 commits        ██████████████░░░░░░░░░░░   54.10 % 
+🌆 Daytime                1838 commits        █████████░░░░░░░░░░░░░░░░   36.40 % 
+🌃 Evening                2731 commits        ██████████████░░░░░░░░░░░   54.09 % 
 🌙 Night                  168 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 Tuesday                  680 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Wednesday                820 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Wednesday                821 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
 Thursday                 576 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Friday                   757 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Friday                   757 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
 Saturday                 821 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Sunday                   806 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Sunday                   806 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 ```
 
 
@@ -68,45 +68,45 @@ Sunday                   806 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 59 mins       ██████████████████░░░░░░░   72.67 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Rust                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Image (svg)              31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+TypeScript               7 hrs 44 mins       ██████████████████░░░░░░░   71.83 % 
+JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Rust                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 1 min        ████████████████████████░   94.77 % 
-Antigravity CLI          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Codex Vscode             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+VS Code                  10 hrs 36 mins      █████████████████████████   98.45 % 
+Codex Vscode             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-espia-negocios           13 hrs 7 mins       ████████████████████████░   95.48 % 
-neogamakay               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+espia-negocios           10 hrs 9 mins       ████████████████████████░   94.24 % 
+neogamakay               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 💻 Operating System: 
-Linux                    13 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 26 mins (17.8%)
+⏱ AI Coding Time: 57 mins (8.82%)
 
-✍️ 57 lines written by AI, 1,896 lines written by hand (2.92% AI-written)
+✍️ 3 lines written by AI, 1,646 lines written by hand (0.18% AI-written)
 
-🔤 268,021 Input Tokens, 27,945 Output Tokens
+🔤 217,830 Input Tokens, 18,087 Output Tokens
 
-💵 $1.63 Estimated AI Cost This Week
+💵 $1.23 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 194 AI Prompts
+🧠 4 AI Sessions, 152 AI Prompts
 
-GPT                      62 lines            █████████████████████████   100.00 % 
+GPT                      3 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.92% of written lines came from AI
-📝 Concise Prompter — average 83 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🔍 Hands-On Reviewer — 98.27% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.18% of written lines came from AI
+📝 Concise Prompter — average 77 characters per prompt
+🔁 Iterative Prompter — average 38 prompts per session
+🔍 Hands-On Reviewer — 99.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,5 +122,5 @@ Zig                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 21:16:20 UTC
+ Last Updated on 02/09/2026 21:15:39 UTC
 <!--END_SECTION:waka-->
