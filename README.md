@@ -68,46 +68,28 @@ Sunday                   806 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 1 min         ██████████████████░░░░░░░   70.19 % 
-JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Rust                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+TypeScript               2 hrs 39 mins       ████████████████████░░░░░   78.05 % 
+Rust                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 29 mins       █████████████████████████   98.87 % 
-Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-espia-negocios           7 hrs 56 mins       ███████████████████████░░   92.57 % 
-neogamakay               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+espia-negocios           2 hrs 44 mins       ████████████████████░░░░░   80.40 % 
+neogamakay               39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Linux                    8 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (10.14%)
-
-✍️ 0 lines written by AI, 1,482 lines written by hand (0.0% AI-written)
-
-🔤 83,460 Input Tokens, 8,765 Output Tokens
-
-💵 $1.16 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 151 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 76 characters per prompt
-🔁 Iterative Prompter — average 50 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,5 +105,5 @@ Zig                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 20:59:03 UTC
+ Last Updated on 05/09/2026 20:37:52 UTC
 <!--END_SECTION:waka-->
