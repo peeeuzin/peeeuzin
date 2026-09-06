@@ -68,22 +68,22 @@ Sunday                   806 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 39 mins       ████████████████████░░░░░   78.05 % 
-Rust                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               1 hr 6 mins         ███████████████░░░░░░░░░░   59.94 % 
+Rust                     36 mins             ████████░░░░░░░░░░░░░░░░░   33.13 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-espia-negocios           2 hrs 44 mins       ████████████████████░░░░░   80.40 % 
-neogamakay               39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+espia-negocios           1 hr 10 mins        ████████████████░░░░░░░░░   63.65 % 
+neogamakay               39 mins             █████████░░░░░░░░░░░░░░░░   35.45 % 
+docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Linux                    3 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,5 +105,5 @@ Zig                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:37:52 UTC
+ Last Updated on 06/09/2026 20:40:54 UTC
 <!--END_SECTION:waka-->
