@@ -39,7 +39,7 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C834%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C840%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2025%20mins-blue?style=flat)
 
@@ -68,30 +68,32 @@ Sunday                   880 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 57 mins      █████████████████████░░░░   84.78 % 
-Prisma                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+TypeScript               18 hrs 16 mins      █████████████████████░░░░   83.12 % 
+Prisma                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Python                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 8 mins       █████████████████████████   98.08 % 
-Antigravity CLI          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+VS Code                  21 hrs 40 mins      █████████████████████████   98.56 % 
+Antigravity CLI          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🐱‍💻 Projects: 
-espia-negocios           15 hrs 55 mins      ████████████████████████░   96.74 % 
-hydrogen                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+espia-negocios           15 hrs 55 mins      ██████████████████░░░░░░░   72.42 % 
+ageda                    5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+hydrogen                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+api                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Linux                    16 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (14.99%)
+⏱ AI Coding Time: 2 hrs 28 mins (11.22%)
 
-✍️ 0 lines written by AI, 2,266 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,238 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -119,5 +121,5 @@ Zig                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 21:12:09 UTC
+ Last Updated on 12/09/2026 20:49:39 UTC
 <!--END_SECTION:waka-->
