@@ -39,28 +39,28 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C843%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C844%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2025%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-🌆 Daytime                2030 commits        █████████░░░░░░░░░░░░░░░░   36.65 % 
-🌃 Evening                2990 commits        █████████████░░░░░░░░░░░░   53.98 % 
-🌙 Night                  183 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+🌞 Morning                360 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+🌆 Daytime                2196 commits        █████████░░░░░░░░░░░░░░░░   36.70 % 
+🌃 Evening                3230 commits        █████████████░░░░░░░░░░░░   53.98 % 
+🌙 Night                  198 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   647 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Tuesday                  742 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Wednesday                906 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Thursday                 635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Friday                   827 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Saturday                 898 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Sunday                   884 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Monday                   697 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Tuesday                  799 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Wednesday                986 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Thursday                 687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Friday                   895 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Saturday                 969 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Sunday                   951 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 ```
 
 
@@ -68,43 +68,43 @@ Sunday                   884 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               20 hrs 11 mins      ████████████████████░░░░░   79.97 % 
-Prisma                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Other                    29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               20 hrs 25 mins      ████████████████████░░░░░   79.75 % 
+Prisma                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Docker                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 55 mins      █████████████████████████   98.75 % 
-Antigravity CLI          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+VS Code                  25 hrs 18 mins      █████████████████████████   98.84 % 
+Antigravity CLI          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🐱‍💻 Projects: 
-espia-negocios           15 hrs 55 mins      ████████████████░░░░░░░░░   63.09 % 
-ageda                    8 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
-hydrogen                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+espia-negocios           14 hrs 54 mins      ███████████████░░░░░░░░░░   58.21 % 
+ageda                    10 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   39.22 % 
+hydrogen                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 api                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Linux                    25 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (9.77%)
+⏱ AI Coding Time: 2 hrs (7.87%)
 
-✍️ 0 lines written by AI, 5,977 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 6,206 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 47 AI Prompts
+🧠 5 AI Sessions, 138 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 250 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 274 characters per prompt
+🔁 Iterative Prompter — average 28 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -121,5 +121,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 21:04:03 UTC
+ Last Updated on 14/09/2026 22:01:55 UTC
 <!--END_SECTION:waka-->
