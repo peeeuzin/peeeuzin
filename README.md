@@ -39,28 +39,28 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C846%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C848%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2038%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                360 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-🌆 Daytime                2196 commits        █████████░░░░░░░░░░░░░░░░   36.69 % 
-🌃 Evening                3231 commits        █████████████░░░░░░░░░░░░   53.98 % 
-🌙 Night                  198 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+🌞 Morning                357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+🌆 Daytime                2177 commits        █████████░░░░░░░░░░░░░░░░   36.69 % 
+🌃 Evening                3201 commits        █████████████░░░░░░░░░░░░   53.95 % 
+🌙 Night                  198 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   697 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Tuesday                  800 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Wednesday                986 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Thursday                 687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Friday                   895 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Saturday                 969 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Sunday                   951 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Monday                   684 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Tuesday                  792 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Wednesday                983 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Thursday                 681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Friday                   894 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Saturday                 956 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Sunday                   943 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
 ```
 
 
@@ -68,59 +68,59 @@ Sunday                   951 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               18 hrs 33 mins      ███████████████████░░░░░░   74.52 % 
-Prisma                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Python                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Docker                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+TypeScript               14 hrs 41 mins      █████████████████░░░░░░░░   69.17 % 
+Prisma                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Python                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Docker                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 34 mins      █████████████████████████   98.73 % 
-Antigravity CLI          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+VS Code                  20 hrs 57 mins      █████████████████████████   98.68 % 
+Antigravity CLI          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-espia-negocios           12 hrs 26 mins      ████████████░░░░░░░░░░░░░   49.97 % 
-ageda                    10 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   40.34 % 
-hydrogen                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-eta                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-DustData                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+ageda                    10 hrs 2 mins       ████████████░░░░░░░░░░░░░   47.28 % 
+espia-negocios           8 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.79 % 
+hydrogen                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+eta                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+DustData                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
-Linux                    24 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 13 mins (8.96%)
+⏱ AI Coding Time: 1 hr 58 mins (9.33%)
 
-✍️ 0 lines written by AI, 5,955 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,527 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 227 AI Prompts
+🧠 6 AI Sessions, 127 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 212 characters per prompt
-🔁 Iterative Prompter — average 32 prompts per session
+📝 Concise Prompter — average 130 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            ████████████░░░░░░░░░░░░░   46.00 % 
-Rust                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               22 repos            ███████████░░░░░░░░░░░░░░   44.90 % 
+Rust                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Zig                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
 
 
- Last Updated on 15/09/2026 21:39:34 UTC
+ Last Updated on 16/09/2026 21:34:36 UTC
 <!--END_SECTION:waka-->
