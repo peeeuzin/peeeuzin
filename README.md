@@ -39,7 +39,7 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C861%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C862%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2012%20mins-blue?style=flat)
 
@@ -68,48 +68,48 @@ Sunday                   943 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 19 mins      ██████████████████████░░░   88.89 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Rust                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-SQL                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               10 hrs 3 mins       ██████████████████████░░░   89.95 % 
+Rust                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 29 mins      ████████████████████████░   97.24 % 
-Antigravity CLI          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Codex Vscode             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+VS Code                  10 hrs 50 mins      ████████████████████████░   96.98 % 
+Antigravity CLI          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Codex Vscode             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🐱‍💻 Projects: 
-sig                      6 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.05 % 
-espia-negocios           6 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.69 % 
-tiramisu                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-DustData                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-neogamakay               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+sig                      7 hrs 39 mins       █████████████████░░░░░░░░   68.48 % 
+espia-negocios           2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+DustData                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+tiramisu                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+neogamakay               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 💻 Operating System: 
-Linux                    13 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 36 mins (11.6%)
+⏱ AI Coding Time: 1 hr 25 mins (12.77%)
 
-✍️ 535 lines written by AI, 3,200 lines written by hand (14.32% AI-written)
+✍️ 535 lines written by AI, 2,650 lines written by hand (16.8% AI-written)
 
 🔤 259,297 Input Tokens, 38,393 Output Tokens
 
 💵 $1.91 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 9 AI Prompts
+🧠 6 AI Sessions, 8 AI Prompts
 
 GPT                      537 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.32% of written lines came from AI
-📝 Concise Prompter — average 134 characters per prompt
+🧑‍💻 Mostly Hands-On — 16.8% of written lines came from AI
+📝 Concise Prompter — average 111 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 90.72% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 88.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,5 +125,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:43:14 UTC
+ Last Updated on 24/09/2026 21:44:47 UTC
 <!--END_SECTION:waka-->
