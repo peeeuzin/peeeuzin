@@ -68,34 +68,34 @@ Sunday                   943 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 47 mins       ████████████████░░░░░░░░░   65.98 % 
-Rust                     2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-C++                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+TypeScript               8 hrs 40 mins       ████████████████░░░░░░░░░   63.34 % 
+Rust                     2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+C++                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 9 mins       ████████████████████████░   95.28 % 
-Antigravity CLI          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Codex Vscode             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+VS Code                  12 hrs 59 mins      ████████████████████████░   94.89 % 
+Antigravity CLI          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Codex Vscode             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🐱‍💻 Projects: 
-sig                      11 hrs 6 mins       ███████████████████░░░░░░   74.74 % 
-delta                    2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-leveldb                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-lattescript              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-habbit                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+sig                      9 hrs 56 mins       ██████████████████░░░░░░░   72.61 % 
+delta                    2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+leveldb                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+lattescript              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+habbit                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Linux                    14 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (13.85%)
+⏱ AI Coding Time: 2 hrs 3 mins (15.02%)
 
-✍️ 517 lines written by AI, 2,276 lines written by hand (18.51% AI-written)
+✍️ 517 lines written by AI, 2,121 lines written by hand (19.6% AI-written)
 
 🔤 1,049,352 Input Tokens, 112,024 Output Tokens
 
@@ -108,10 +108,10 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.51% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 19.6% of written lines came from AI
 📝 Concise Prompter — average 70 characters per prompt
 🔁 Iterative Prompter — average 23 prompts per session
-🔍 Hands-On Reviewer — 87.08% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 86.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,5 +127,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:32:50 UTC
+ Last Updated on 01/10/2026 22:54:19 UTC
 <!--END_SECTION:waka-->
