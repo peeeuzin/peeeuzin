@@ -39,7 +39,7 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C879%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C880%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2014%20mins-blue?style=flat)
 
@@ -68,50 +68,49 @@ Sunday                   943 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     5 hrs 28 mins       ██████████████░░░░░░░░░░░   56.48 % 
-TypeScript               2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-C++                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Rust                     5 hrs 42 mins       ███████████████████░░░░░░   77.50 % 
+C++                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Zig                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 10 mins       ████████████████████████░   94.49 % 
-Antigravity CLI          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+VS Code                  6 hrs 58 mins       ████████████████████████░   94.88 % 
+Antigravity CLI          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-delta                    5 hrs 48 mins       ███████████████░░░░░░░░░░   59.89 % 
-sig                      2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-leveldb                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-lattescript              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-habbit                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+delta                    6 hrs 2 mins        ████████████████████░░░░░   81.99 % 
+leveldb                  55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+lattescript              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+habbit                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+lv8                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Linux                    9 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (17.72%)
+⏱ AI Coding Time: 58 mins (13.16%)
 
-✍️ 40 lines written by AI, 1,770 lines written by hand (2.21% AI-written)
+✍️ 0 lines written by AI, 1,356 lines written by hand (0.0% AI-written)
 
-🔤 390,331 Input Tokens, 41,312 Output Tokens
+🔤 44,452 Input Tokens, 8,427 Output Tokens
 
-💵 $0.91 Estimated AI Cost This Week
+💵 $0.36 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 59 AI Prompts
+🧠 3 AI Sessions, 52 AI Prompts
 
-GPT                      40 lines            █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.21% of written lines came from AI
-📝 Concise Prompter — average 67 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 98.43% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 54 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,5 +126,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 21:42:27 UTC
+ Last Updated on 04/10/2026 21:49:20 UTC
 <!--END_SECTION:waka-->
