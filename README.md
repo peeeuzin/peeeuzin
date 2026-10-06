@@ -68,34 +68,34 @@ Sunday                   943 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     5 hrs 42 mins       ███████████████████░░░░░░   77.50 % 
-C++                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Zig                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Rust                     5 hrs 16 mins       ███████████████████░░░░░░   76.13 % 
+C++                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Zig                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 58 mins       ████████████████████████░   94.88 % 
-Antigravity CLI          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+VS Code                  6 hrs 33 mins       ████████████████████████░   94.57 % 
+Antigravity CLI          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-delta                    6 hrs 2 mins        ████████████████████░░░░░   81.99 % 
-leveldb                  55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-lattescript              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-habbit                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-lv8                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+delta                    5 hrs 36 mins       ████████████████████░░░░░   80.90 % 
+leveldb                  55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+lattescript              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+habbit                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+lv8                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Linux                    7 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (13.16%)
+⏱ AI Coding Time: 58 mins (13.96%)
 
-✍️ 0 lines written by AI, 1,356 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,248 lines written by hand (0.0% AI-written)
 
 🔤 44,452 Input Tokens, 8,427 Output Tokens
 
@@ -126,5 +126,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:49:20 UTC
+ Last Updated on 06/10/2026 00:19:00 UTC
 <!--END_SECTION:waka-->
