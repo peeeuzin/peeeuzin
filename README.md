@@ -39,9 +39,9 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C880%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C880%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-34%20hrs%2026%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -68,44 +68,46 @@ Sunday                   943 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     3 hrs 17 mins       ███████████████████████░░   90.41 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-D                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Rust                     3 hrs 17 mins       ██████████████████░░░░░░░   71.60 % 
+Python                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ██████████████████████░░░   89.65 % 
-Antigravity CLI          22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  4 hrs 9 mins        ███████████████████████░░   90.57 % 
+Antigravity CLI          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-delta                    3 hrs 38 mins       █████████████████████████   100.00 % 
+delta                    3 hrs 38 mins       ████████████████████░░░░░   79.19 % 
+habbit                   57 mins             █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
 
 💻 Operating System: 
-Linux                    3 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (26.58%)
+⏱ AI Coding Time: 1 hr 10 mins (25.39%)
 
-✍️ 0 lines written by AI, 552 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 726 lines written by hand (0.0% AI-written)
 
-🔤 44,452 Input Tokens, 8,427 Output Tokens
+🔤 278,404 Input Tokens, 10,312 Output Tokens
 
-💵 $0.36 Estimated AI Cost This Week
+💵 $0.85 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 52 AI Prompts
+🧠 5 AI Sessions, 57 AI Prompts
 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 54 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
+🔁 Iterative Prompter — average 11 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -122,5 +124,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:19:12 UTC
+ Last Updated on 08/10/2026 23:34:27 UTC
 <!--END_SECTION:waka-->
