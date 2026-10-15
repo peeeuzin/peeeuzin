@@ -46,21 +46,21 @@ export default me;
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                357 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-🌆 Daytime                2202 commits        █████████░░░░░░░░░░░░░░░░   36.71 % 
-🌃 Evening                3239 commits        ██████████████░░░░░░░░░░░   54.00 % 
-🌙 Night                  200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+🌞 Morning                357 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+🌆 Daytime                2217 commits        █████████░░░░░░░░░░░░░░░░   36.76 % 
+🌃 Evening                3257 commits        ██████████████░░░░░░░░░░░   54.00 % 
+🌙 Night                  200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   684 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Tuesday                  792 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Wednesday                994 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Thursday                 709 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Friday                   898 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Saturday                 958 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Sunday                   963 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Monday                   684 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Tuesday                  792 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Wednesday                1000 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Thursday                 724 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Friday                   898 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Saturday                 958 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Sunday                   975 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 ```
 
 
@@ -68,45 +68,45 @@ Sunday                   963 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.04 % 
-JSON                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-TOML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Rust                     2 hrs 21 mins       ███████████████░░░░░░░░░░   59.64 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 39 mins       ████████████████████████░   94.59 % 
-Antigravity CLI          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+VS Code                  3 hrs 45 mins       ████████████████████████░   94.72 % 
+Antigravity CLI          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🐱‍💻 Projects: 
-habbit                   2 hrs 33 mins       █████████████░░░░░░░░░░░░   51.89 % 
-delta                    2 hrs 22 mins       ████████████░░░░░░░░░░░░░   48.11 % 
+delta                    2 hrs 22 mins       ███████████████░░░░░░░░░░   59.73 % 
+habbit                   1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   40.27 % 
 
 💻 Operating System: 
-Linux                    4 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 44 mins (35.38%)
+⏱ AI Coding Time: 1 hr 32 mins (38.88%)
 
-✍️ 248 lines written by AI, 1,286 lines written by hand (16.17% AI-written)
+✍️ 248 lines written by AI, 1,112 lines written by hand (18.24% AI-written)
 
-🔤 1,306,220 Input Tokens, 106,582 Output Tokens
+🔤 1,072,268 Input Tokens, 104,697 Output Tokens
 
-💵 $4.12 Estimated AI Cost This Week
+💵 $3.63 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 34 AI Prompts
+🧠 9 AI Sessions, 29 AI Prompts
 
 Gemini                   248 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.17% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
+🧑‍💻 Mostly Hands-On — 18.24% of written lines came from AI
+📝 Concise Prompter — average 116 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 88.95% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,5 +122,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 21:56:51 UTC
+ Last Updated on 15/10/2026 21:40:52 UTC
 <!--END_SECTION:waka-->
