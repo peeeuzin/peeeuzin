@@ -39,9 +39,9 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C892%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C893%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2037%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -68,50 +68,50 @@ Sunday                   949 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        █████████████░░░░░░░░░░░░   53.65 % 
-Rust                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Python                   38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Elixir                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+TypeScript               3 hrs 50 mins       ████████████████░░░░░░░░░   64.29 % 
+Python                   38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Elixir                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Rust                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 29 mins       ████████████████████████░   96.39 % 
-Antigravity CLI          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+VS Code                  5 hrs 45 mins       ████████████████████████░   96.56 % 
+Antigravity CLI          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🐱‍💻 Projects: 
-habbit                   3 hrs 53 mins       █████████████████░░░░░░░░   68.34 % 
-delta                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-sigelixir                43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-valette                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+habbit                   4 hrs 51 mins       ████████████████████░░░░░   81.49 % 
+sigelixir                43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+delta                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+valette                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 💻 Operating System: 
-Linux                    5 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (35.99%)
+⏱ AI Coding Time: 2 hrs 23 mins (40.01%)
 
-✍️ 6 lines written by AI, 1,301 lines written by hand (0.46% AI-written)
+✍️ 310 lines written by AI, 1,055 lines written by hand (22.71% AI-written)
 
-🔤 206,253 Input Tokens, 12,629 Output Tokens
+🔤 352,114 Input Tokens, 36,524 Output Tokens
 
-💵 $0.64 Estimated AI Cost This Week
+💵 $0.69 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 68 AI Prompts
+🧠 7 AI Sessions, 79 AI Prompts
 
-GPT                      35 lines            █████████████████████████   100.00 % 
+GPT                      364 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.46% of written lines came from AI
-📝 Concise Prompter — average 225 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 98.68% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 22.71% of written lines came from AI
+📝 Concise Prompter — average 218 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 88.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,5 +127,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 21:07:50 UTC
+ Last Updated on 25/10/2026 21:07:18 UTC
 <!--END_SECTION:waka-->
