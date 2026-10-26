@@ -68,50 +68,48 @@ Sunday                   949 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 50 mins       ████████████████░░░░░░░░░   64.29 % 
-Python                   38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Elixir                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Rust                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+TypeScript               3 hrs 50 mins       ███████████████████░░░░░░   76.40 % 
+Rust                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Elixir                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 45 mins       ████████████████████████░   96.56 % 
-Antigravity CLI          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+VS Code                  4 hrs 56 mins       █████████████████████████   98.35 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-habbit                   4 hrs 51 mins       ████████████████████░░░░░   81.49 % 
-sigelixir                43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-delta                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-valette                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+habbit                   4 hrs 15 mins       █████████████████████░░░░   85.00 % 
+sigelixir                22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+delta                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+valette                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 💻 Operating System: 
-Linux                    5 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 23 mins (40.01%)
+⏱ AI Coding Time: 2 hrs 6 mins (41.87%)
 
-✍️ 310 lines written by AI, 1,055 lines written by hand (22.71% AI-written)
+✍️ 310 lines written by AI, 887 lines written by hand (25.9% AI-written)
 
-🔤 352,114 Input Tokens, 36,524 Output Tokens
+🔤 234,153 Input Tokens, 29,576 Output Tokens
 
-💵 $0.69 Estimated AI Cost This Week
+💵 $0.19 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 79 AI Prompts
+🧠 5 AI Sessions, 74 AI Prompts
 
 GPT                      364 lines           █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.71% of written lines came from AI
-📝 Concise Prompter — average 218 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 88.74% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.9% of written lines came from AI
+📝 Concise Prompter — average 207 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🔍 Hands-On Reviewer — 87.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,5 +125,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 21:07:18 UTC
+ Last Updated on 26/10/2026 22:53:59 UTC
 <!--END_SECTION:waka-->
