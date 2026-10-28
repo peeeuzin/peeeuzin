@@ -46,21 +46,21 @@ export default me;
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                361 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-🌆 Daytime                2227 commits        █████████░░░░░░░░░░░░░░░░   36.79 % 
-🌃 Evening                3262 commits        █████████████░░░░░░░░░░░░   53.88 % 
-🌙 Night                  204 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+🌞 Morning                367 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+🌆 Daytime                2299 commits        █████████░░░░░░░░░░░░░░░░   37.10 % 
+🌃 Evening                3326 commits        █████████████░░░░░░░░░░░░   53.68 % 
+🌙 Night                  204 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Tuesday                  801 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Wednesday                992 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Thursday                 716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Friday                   904 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Saturday                 986 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Sunday                   967 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Monday                   694 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Tuesday                  817 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Wednesday                1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Thursday                 746 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Friday                   904 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Saturday                 1028 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Sunday                   1003 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 ```
 
 
@@ -68,48 +68,47 @@ Sunday                   967 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 50 mins       ████████████████████░░░░░   80.05 % 
-Rust                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Elixir                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+TypeScript               46 mins             █████████████░░░░░░░░░░░░   52.19 % 
+Rust                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Elixir                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 42 mins       █████████████████████████   98.27 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+VS Code                  1 hr 28 mins        █████████████████████████   99.35 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projects: 
-habbit                   4 hrs 15 mins       ██████████████████████░░░   89.06 % 
-delta                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-valette                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-sigelixir                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+habbit                   58 mins             ████████████████░░░░░░░░░   64.86 % 
+delta                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+valette                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+sigelixir                8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 💻 Operating System: 
-Linux                    4 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (39.1%)
+⏱ AI Coding Time: 20 mins (22.53%)
 
-✍️ 310 lines written by AI, 887 lines written by hand (25.9% AI-written)
+✍️ 304 lines written by AI, 319 lines written by hand (48.8% AI-written)
 
-🔤 234,153 Input Tokens, 29,576 Output Tokens
+🔤 145,861 Input Tokens, 23,895 Output Tokens
 
-💵 $0.19 Estimated AI Cost This Week
+💵 $0.18 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 74 AI Prompts
+🧠 2 AI Sessions, 11 AI Prompts
 
-GPT                      364 lines           █████████████████████████   100.00 % 
+GPT                      329 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.9% of written lines came from AI
-📝 Concise Prompter — average 207 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🔍 Hands-On Reviewer — 87.49% of changed lines were hand-edited
+⚖️ Balanced with AI — 48.8% of written lines came from AI
+📝 Concise Prompter — average 178 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 82.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,5 +124,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 22:32:55 UTC
+ Last Updated on 28/10/2026 22:49:51 UTC
 <!--END_SECTION:waka-->
