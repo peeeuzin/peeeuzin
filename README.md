@@ -39,9 +39,9 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C900%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C902%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%2043%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -68,45 +68,50 @@ Sunday                   1111 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 40 mins       ██████████████████░░░░░░░   70.79 % 
-Rust                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               2 hrs 40 mins       █████████████░░░░░░░░░░░░   51.23 % 
+Elixir                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Rust                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 53 mins       ███████████████████████░░   93.68 % 
+Claude Code              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 🐱‍💻 Projects: 
-habbit                   3 hrs               ████████████████████░░░░░   79.74 % 
-lex                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+habbit                   3 hrs               ██████████████░░░░░░░░░░░   57.71 % 
+sig                      52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+lex                      45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+espia                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+sigelixir                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 Operating System: 
-Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (34.81%)
+⏱ AI Coding Time: 1 hr 49 mins (34.97%)
 
-✍️ 397 lines written by AI, 2,830 lines written by hand (12.3% AI-written)
+✍️ 1,688 lines written by AI, 2,878 lines written by hand (36.97% AI-written)
 
-🔤 380,342 Input Tokens, 69,546 Output Tokens
+🔤 532,920 Input Tokens, 150,987 Output Tokens
 
-💵 $0.96 Estimated AI Cost This Week
+💵 $4.74 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 21 AI Prompts
+🧠 6 AI Sessions, 32 AI Prompts
 
-GPT                      554 lines           █████████████████████████   100.00 % 
+Opus                     1,409 lines         ██████████████████░░░░░░░   71.78 % 
+GPT                      554 lines           ███████░░░░░░░░░░░░░░░░░░   28.22 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.3% of written lines came from AI
-📝 Concise Prompter — average 192 characters per prompt
+⚖️ Balanced with AI — 36.97% of written lines came from AI
+📝 Concise Prompter — average 157 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 87.87% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 67.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,5 +127,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 02:26:18 UTC
+ Last Updated on 14/11/2026 22:44:49 UTC
 <!--END_SECTION:waka-->
