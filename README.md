@@ -39,16 +39,16 @@ export default me;
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C903%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C904%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2027%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                378 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-🌆 Daytime                2642 commits        ██████████░░░░░░░░░░░░░░░   39.18 % 
-🌃 Evening                3528 commits        █████████████░░░░░░░░░░░░   52.31 % 
+🌞 Morning                379 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+🌆 Daytime                2642 commits        ██████████░░░░░░░░░░░░░░░   39.16 % 
+🌃 Evening                3529 commits        █████████████░░░░░░░░░░░░   52.31 % 
 🌙 Night                  196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -56,11 +56,11 @@ export default me;
 ```text
 Monday                   783 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 Tuesday                  912 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Wednesday                1026 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Wednesday                1028 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 Thursday                 814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 Friday                   920 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 Saturday                 1123 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Sunday                   1166 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Sunday                   1166 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
 ```
 
 
@@ -68,48 +68,47 @@ Sunday                   1166 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Elixir                   47 mins             ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-Python                   40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-YAML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Elixir                   1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   32.85 % 
+Text                     57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Python                   40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         ██████████████████░░░░░░░   72.50 % 
-Claude Code              46 mins             ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+VS Code                  2 hrs               █████████████░░░░░░░░░░░░   51.03 % 
+Claude Code              1 hr 55 mins        ████████████░░░░░░░░░░░░░   48.97 % 
 
 🐱‍💻 Projects: 
-sig                      52 mins             ████████░░░░░░░░░░░░░░░░░   31.28 % 
-2026.2-T02-Turing        44 mins             ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-espia                    28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-habbit                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-argon                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+sig                      1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   38.07 % 
+2026.2-T02-Turing        44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+pedro                    39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+espia                    28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+argon                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 💻 Operating System: 
-Linux                    2 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 7 mins (40.11%)
+⏱ AI Coding Time: 2 hrs 14 mins (56.88%)
 
-✍️ 2,595 lines written by AI, 738 lines written by hand (77.86% AI-written)
+✍️ 3,366 lines written by AI, 93 lines written by hand (97.31% AI-written)
 
-🔤 392,785 Input Tokens, 155,789 Output Tokens
+🔤 580,655 Input Tokens, 256,237 Output Tokens
 
-💵 $6.85 Estimated AI Cost This Week
+💵 $12.25 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 19 AI Prompts
+🧠 7 AI Sessions, 27 AI Prompts
 
-Opus                     2,803 lines         ███████████████████████░░   92.88 % 
-GPT                      215 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Opus                     3,648 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.86% of written lines came from AI
-📝 Concise Prompter — average 108 characters per prompt
+🤖 AI-Driven — 97.31% of written lines came from AI
+📝 Concise Prompter — average 386 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 21.12% of changed lines were hand-edited
+🚀 High AI Trust — 4.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,5 +124,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 01:13:39 UTC
+ Last Updated on 19/11/2026 00:44:43 UTC
 <!--END_SECTION:waka-->
